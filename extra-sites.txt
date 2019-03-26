@@ -1,0 +1,14 @@
+[Adblock Plus 2.0]
+! Title: Boicot webs mierder
+! Version: 2.3
+! Homepage: http://github.com/carcheky/adblock-extra
+!  Listas de dominios que siguen malas prácticas, tienen virus, o simplemente no quiero ni entrar por error
+!
+!
+!------ [Reglas de bloqueo masivo incluyendo scripts] / massive blocking including scripts ------!
+||forcontu.com^$script
+||drauta.com^$script
+!
+!------ [Reglas genericas de bloqueo de elementos personalizada] / personalized elements general blocking ------!
+forcontu.com##body
+drauta.com##body
