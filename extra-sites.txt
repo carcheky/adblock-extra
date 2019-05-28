@@ -12,4 +12,4 @@
 !------ [Reglas genericas de bloqueo de elementos personalizada] / personalized elements general blocking ------!
 forcontu.com##body
 drauta.com##html
-makeuseof.com##html
+makeuseof.com##*
