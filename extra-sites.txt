@@ -10,6 +10,6 @@
 ||drauta.com^$script
 !
 !------ [Reglas genericas de bloqueo de elementos personalizada] / personalized elements general blocking ------!
-forcontu.com##body
+forcontu.*##body
 drauta.com##html
 makeuseof.com##*
