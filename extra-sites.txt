@@ -13,3 +13,4 @@
 forcontu.*##body
 drauta.com##html
 makeuseof.com##*
+thepatriota.com##*
