@@ -1,0 +1,12 @@
+[Adblock Plus 2.0]
+! Title: Boicot webs mierder
+! Version: 2.3
+! Homepage: http://github.com/carcheky/adblock-extra
+!  Listas de dominios que hacen clikbait
+!
+!
+!------ [Reglas de bloqueo masivo incluyendo scripts] / massive blocking including scripts ------!
+||los40.com^$script
+!
+!------ [Reglas genericas de bloqueo de elementos personalizada] / personalized elements general blocking ------!
+los40.com##*
